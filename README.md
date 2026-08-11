@@ -17,47 +17,72 @@
 
 <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=abhijith-sys&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
-    alt="Top Languages"
-  />
-</p>
-
-<p>
-  <img
-    align="right"
-    src="https://github-stats-extended.vercel.app/api?username=abhijith-sys&show_icons=true&locale=en&theme=chartreuse-dark"
-    alt="GitHub Stats"
-    width="410"
-  />
-</p>
-
-<br><br><br><br><br>
-
-<hr>
+<!-- GitHub Activity -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+  <b>GitHub Activity</b>
+</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-  &nbsp;Git profile Trophies
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijith-sys&layout=compact&theme=chartreuse-dark&hide_border=false"
+    alt="Most Used Languages"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhijith-sys&show_icons=true&theme=chartreuse-dark&hide_border=false&count_private=true"
+    alt="Abhijith's GitHub Stats"
+    height="180"
+  />
 </p>
 
 <br>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abhijith-sys&theme=juicyfresh&no-bg=true" />
+<!-- GitHub Streak -->
+<h2 align="center">🔥 GitHub Streak</h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b> Skills</b>
-
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,jest,nodejs,git,aws,bootstrap,c,cpp,css,discord,docker,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,redux,tailwind,ts,vscode&perline=14" />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=abhijith-sys&theme=chartreuse-dark&hide_border=false"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br>
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=abhijith-sys&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<br>
+
+<!-- Divider -->
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="100%"
+    alt="divider"
+  />
+</p>
+
+<br>
+
+<!-- Skills -->
+<h2>
+  <img src="https://skillicons.dev/icons?i=code" width="30">
+  <b>Skills</b>
+</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nodejs,express,typescript,javascript,redux,tailwind,html,css,bootstrap,mongodb,postgresql,mysql,redis,kafka,docker,aws,cloudflare,git,github,figma,postman,vscode&perline=9"
+    alt="Skills"
+  />
 </p>
